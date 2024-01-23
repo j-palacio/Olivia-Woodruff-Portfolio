@@ -6,7 +6,6 @@ Welcome to the Olivia Woodruff Portfolio project! In this project, we'll use our
 Here are the CSS rules provided to improve the appearance of the site:
 
 ```css
-Copy code
 .header {
   background-color: CornflowerBlue;
   text-align: center;
@@ -36,7 +35,6 @@ Feel free to modify and add more rules to further customize the design.
 Here's the basic structure of the HTML file:
 
 ```html
-Copy code
 <!DOCTYPE html>
 <html>
 
